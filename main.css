@@ -6,7 +6,7 @@
 
 body {
   font-family: Arial, sans-serif;
-  background: #f4f4f4;
+  background: rgba(124, 199, 199, 0.493);
   padding: 20px;
 }
 
@@ -44,16 +44,16 @@ img {
 
 .input-section button {
   padding: 10px 15px;
-  background: #4e2188;
+  background: rgba(124, 199, 199, 0.493);
   border: none;
-  color: white;
+  color: black;
   cursor: pointer;
   font-size: 16px;
   border-radius: 5px;
 }
 
 .input-section button:hover {
-  background: #4e2188;
+  background: rgba(124, 199, 199, 0.493);
   opacity: 0.7;
 }
 
